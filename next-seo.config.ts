@@ -7,11 +7,11 @@ const config: DefaultSeoProps = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://seo-demo.vercel.app",
+    url: "https://seo-demo-5rxr-8nvz4clii-danishrizwan-lgtms-projects.vercel.app/",
     siteName: "SEO Demo",
     images: [
       {
-        url: "https://seo-demo.vercel.app/og-image.jpg",
+        url: "https://seo-demo-5rxr-8nvz4clii-danishrizwan-lgtms-projects.vercel.app//og-image.jpg",
         width: 1200,
         height: 630,
         alt: "SEO Demo OG Image",
