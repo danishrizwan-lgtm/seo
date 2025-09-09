@@ -9,7 +9,7 @@ export const metadata: Metadata = {
   description: "This is a dummy project to test SEO and Open Graph tags.",
   openGraph: {
     type: "website",
-    url: "https://seo-demo-5rxr-8nvz4clii-danishrizwan-lgtms-projects.vercel.app/",
+    url: "https://seo-tau-bice.vercel.app/",
     title: "SEO Demo Website",
     description: "Dummy SEO testing site",
     siteName: "SEO Demo",

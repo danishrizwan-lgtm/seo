@@ -12,10 +12,10 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
         openGraph={{
           title,
           description,
-          url: `https://seo-demo-5rxr-8nvz4clii-danishrizwan-lgtms-projects.vercel.app//blog/${params.slug}`,
+          url: `https://seo-tau-bice.vercel.app/blog/${params.slug}`,
           images: [
             {
-              url: "https://seo-demo-5rxr-8nvz4clii-danishrizwan-lgtms-projects.vercel.app//og-image.jpg",
+              url: "https://seo-tau-bice.vercel.app/og-image.jpg",
               width: 1200,
               height: 630,
               alt: "SEO Demo Post Image",
