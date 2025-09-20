@@ -3,7 +3,7 @@ export const categories = [
   {
     slug: "technology",
     name: "Technology",
-    image: "/tech-og.jpg",
+    image: "/og-image.jpg",
   },
 ];
 
@@ -15,7 +15,7 @@ export const posts = [
     excerpt:
       "Learn how to add SEO to your Next.js app with metadata and sitemap.",
     content: "This is the full post content...",
-    postimage: "/seo-og.jpg",
+    postimage: "/og-image.jpg",
     updatedAt: "2025-09-20",
   },
 ];
