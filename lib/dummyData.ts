@@ -15,8 +15,7 @@ export const posts = [
     excerpt:
       "Learn how to add SEO to your Next.js app with metadata and sitemap.",
     content: "This is the full post content...",
-    postimage:
-      "https://prime9staging.s3.ap-south-1.amazonaws.com/prime9/images/12364544/posts/09_2025/Supreme_Court_1758350345721.jpg",
+    postimage: "/ogdusra.jpg",
     updatedAt: "2025-09-20",
   },
 ];
